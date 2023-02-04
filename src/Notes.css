@@ -1,0 +1,9 @@
+.notes-container {
+    border: 1px solid black;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(180, 190, 104);
+}

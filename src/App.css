@@ -1,3 +1,7 @@
+body {
+  background: linear-gradient(to right, rgb(0, 170, 255) 5%, white, white, white, rgb(0, 170, 255) 95%)
+}
+
 .App {
   text-align: center;
 }
